@@ -1,22 +1,34 @@
-# Free-Video-Tools
-A list of free video tools for use without login
+# Free Media Tools
+A list of free media tools for use without login and running completely in browser
 
-## Available Tools
+## Free Video Tools
 
-- [Compress Video](https://tools.vadoo.tv/compress-video)
-- [Cut Video](https://tools.vadoo.tv/cut-video)
-- [Add subtitle to video](https://tools.vadoo.tv/add-subtitle-to-video)
-- [Add audio to video](https://tools.vadoo.tv/add-audio-to-video)
-- [Change Video Speed](https://tools.vadoo.tv/change-video-speed)
-- [Resize Video](https://tools.vadoo.tv/resize-video)
-- [Join multiple video](https://tools.vadoo.tv/merge-video)
-- [MP4 converter](https://tools.vadoo.tv/mp4-converter)
-- [AVI converter](https://tools.vadoo.tv/avi-converter)
-- [MKV converter](https://tools.vadoo.tv/mkv-converter)
-- [MOV converter](https://tools.vadoo.tv/mov-converter)
-- [WEBM converter](https://tools.vadoo.tv/webm-converter)
-- [WMV converter](https://tools.vadoo.tv/wmv-converter)
-- [Join multiple audio](https://tools.vadoo.tv/merge-audio)
+Here are some of the video tools available:
+
+- [Compress Video](/compress-video)
+- [Cut Video](/cut-video)
+- [Add subtitle to video](/add-subtitle-to-video)
+- [Add audio to video](/add-audio-to-video)
+- [Change Video Speed](/change-video-speed)
+- [Resize Video](/resize-video)
+- [Join multiple video](/merge-video)
+- [MP4 converter](/mp4-converter)
+- [AVI converter](/avi-converter)
+- [MKV converter](/mkv-converter)
+- [MOV converter](/mov-converter)
+- [WEBM converter](/webm-converter)
+- [WMV converter](/wmv-converter)
+
+## Free Audio Tools
+
+Here are some of the audio tools available:
+
+- [Join multiple audio](/merge-audio)
+- [Change audio speed](/change-audio-speed)
+- [Compress audio](/compress-audio)
+- [Cut audio](/cut-audio)
+- [Add image to audio](/add-image-to-audio)
+
 
 ## Contributing
 
