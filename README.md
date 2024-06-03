@@ -9,6 +9,7 @@ Here are some of the video tools available:
 - [Cut Video](https://tools.vadoo.tv/cut-video)
 - [Add subtitle to video](https://tools.vadoo.tv/add-subtitle-to-video)
 - [Add audio to video](https://tools.vadoo.tv/add-audio-to-video)
+- [Add image to video](https://tools.vadoo.tv/add-image-to-video)
 - [Change Video Speed](https://tools.vadoo.tv/change-video-speed)
 - [Resize Video](https://tools.vadoo.tv/resize-video)
 - [Join multiple video](https://tools.vadoo.tv/merge-video)
@@ -27,7 +28,19 @@ Here are some of the audio tools available:
 - [Change audio speed](https://tools.vadoo.tv/change-audio-speed)
 - [Compress audio](https://tools.vadoo.tv/compress-audio)
 - [Cut audio](https://tools.vadoo.tv/cut-audio)
+- [Merge audio](https://tools.vadoo.tv/merge-audio)
 - [Add image to audio](https://tools.vadoo.tv/add-image-to-audio)
+- [Convert to MP3](https://tools.vadoo.tv/audio-converter/mp3-converter)
+- [Convert to AIFF](https://tools.vadoo.tv/audio-converter/aiff-converter)
+- [Convert to ALAC](https://tools.vadoo.tv/audio-converter/alac-converter)
+- [Convert to AMR](https://tools.vadoo.tv/audio-converter/amr-converter)
+- [Convert to FLAC](https://tools.vadoo.tv/audio-converter/flac-converter)
+- [Convert to M4A](https://tools.vadoo.tv/audio-converter/m4a-converter)
+- [Convert to M4R](https://tools.vadoo.tv/audio-converter/m4r-converter)
+- [Convert to OGG](https://tools.vadoo.tv/audio-converter/ogg-converter)
+- [Convert to OPUS](https://tools.vadoo.tv/audio-converter/opus-converter)
+- [Convert to WAV](https://tools.vadoo.tv/audio-converter/wav-converter)
+- [Convert to WMA](https://tools.vadoo.tv/audio-converter/wma-converter)
 
 
 ## Contributing
