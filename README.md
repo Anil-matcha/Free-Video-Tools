@@ -110,6 +110,7 @@ Aggregators that expose many of the above behind one API/key:
 - **[MuAPI](https://muapi.ai)** — unified API across image + video models (Nano Banana, FLUX, Seedream, and more), one key, one billing
 - **[Fal](https://fal.ai)** — fast inference, broad model catalog
 - **[Replicate](https://replicate.com)** — pay-per-run, large community model catalog
+- **[Eimu](https://eimu.art)** — GPT Image 2 & Nano Banana Pro generation API (OpenAI-compatible) with MCP integration — sign in and use, no relay setup or API key required
 
 Native APIs (single-vendor): Google Gemini/Vertex (Nano Banana, Imagen), OpenAI (GPT Image), Black Forest Labs (FLUX), Ideogram, Recraft.
 
